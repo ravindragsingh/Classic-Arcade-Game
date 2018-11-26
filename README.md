@@ -1,9 +1,13 @@
 # Classic Arcade Game 
 The goal of the player is to reach the water, without colliding into any one of the enemies.
-## Table of Contents
+
 
 
 ## Instructions
+### To play this game -
+    > Download the project
+    > Open index.html in any browser and enjoy the game
+### Rules
 The player can move left, right, up and down
 Once the player reaches the water (i.e., the top of the game board), the game is wons.
 The enemies move at varying speeds on the paved block portion of the game board
